@@ -85,8 +85,4 @@ The model was tested on both provided examples and personal images, including:
 **Key observation:**
 > Style images with rich, high-frequency textures transfer much more strongly than simple or flat styles.
 
----
-
-## 📁 Repository Structure
-
 

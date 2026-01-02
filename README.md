@@ -13,9 +13,9 @@ Below are some example results produced by the current implementation.
 ### Content + Style → Stylized Output
 
 <p align="center">
-  <img src="results/examples/content.jpg" width="28%">
-  <img src="results/examples/style.jpg" width="28%">
-  <img src="results/examples/output.jpg" width="28%">
+  <img src="data/content/c1.jpg" width="28%">
+  <img src="data/style/s2.jpg" width="28%">
+  <img src="results/outputs/c1_s2.jpg" width="28%">
 </p>
 
 More examples can be found in the `results/` directory.
@@ -69,7 +69,7 @@ During experimentation, I observed that:
 Based on this, the default number of optimization steps was reduced, significantly improving efficiency while maintaining visual quality.
 
 <p align="center">
-  <img src="results/loss_curves/loss_curve.png" width="70%">
+  <img src="results/Loss_Curves.jpg" width="70%">
 </p>
 
 ---

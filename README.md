@@ -14,7 +14,7 @@ Below are some example results produced by the current implementation.
 
 <p align="center">
   <img src="data/content/c1.jpg" width="25%">
-  <img src="data/style/s2.jpg" width="30%">
+  <img src="data/style/s2.jpg" width="27%">
   <img src="results/outputs/c1_s2.jpg" width="25%">
 </p>
 

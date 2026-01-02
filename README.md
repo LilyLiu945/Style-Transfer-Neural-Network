@@ -13,9 +13,9 @@ Below are some example results produced by the current implementation.
 ### Content + Style → Stylized Output
 
 <p align="center">
-  <img src="data/content/c1.jpg" height="20%">
-  <img src="data/style/s2.jpg" height="20%">
-  <img src="results/outputs/c1_s2.jpg" height="20%">
+  <img src="data/content/c1.jpg" height="10%">
+  <img src="data/style/s2.jpg" height="15%">
+  <img src="results/outputs/c1_s2.jpg" height="10%">
 </p>
 
 More examples can be found in the `data/` and `results/` directories.

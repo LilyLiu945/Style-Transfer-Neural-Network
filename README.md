@@ -1,4 +1,4 @@
-# Neural Style Transfer Playground
+# Neural Style Transfer
 
 This repository is a **personal playground for experimenting with neural style transfer methods**.
 
